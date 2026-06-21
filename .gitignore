@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# --- Ambientes virtuais ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Testes / cobertura ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- IDEs / editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Dados gerados em uso (não versionar histórico real do usuário) ---
+# O history.json de exemplo do repositório fica, mas se você quiser
+# resetar o histórico ao clonar, pode descomentar a linha abaixo:
+# database/history.json
+
+# Observação: scanner/model/quarantine_model.pkl É versionado de
+# propósito, pra quem clonar o repo já ter o app funcionando sem
+# precisar rodar o treino antes.
