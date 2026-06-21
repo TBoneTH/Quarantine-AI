@@ -102,7 +102,7 @@ QUARANTINE_PROTOTIPO/
 
 ```bash
 # Clone o repositório
-git clone <url-do-seu-repo>
+git clone https://github.com/TBoneTH/Quarantine-AI
 cd QUARANTINE_PROTOTIPO
 
 # Instale as dependências
