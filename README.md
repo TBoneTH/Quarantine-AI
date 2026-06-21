@@ -21,7 +21,7 @@ um classificador de Machine Learning treinado.
 Exemplo: ![Demo](assets/demo.gif)
 -->
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Hash SHA-256** de qualquer arquivo selecionado
 - **Análise de entropia de Shannon** — detecta indícios de
@@ -38,7 +38,7 @@ Exemplo: ![Demo](assets/demo.gif)
 - **Suíte de testes automatizados** (pytest), incluindo testes que
   rodam sem precisar de interface gráfica instalada
 
-## 🧠 Como funciona
+##  Como funciona
 
 ```
 Arquivo selecionado
@@ -69,7 +69,7 @@ o modelo foi treinado, com quais dados e quais as limitações dele.
 - [scikit-learn](https://scikit-learn.org/) — classificador de Machine Learning
 - [pytest](https://pytest.org/) — testes automatizados
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 QUARANTINE_PROTOTIPO/
@@ -98,7 +98,7 @@ QUARANTINE_PROTOTIPO/
 └── LICENSE
 ```
 
-## 🚀 Instalação e uso
+##  Instalação e uso
 
 ```bash
 # Clone o repositório
@@ -130,7 +130,7 @@ São 50 testes cobrindo os módulos de análise (entropia, assinatura,
 score, histórico) e o pipeline de Machine Learning (geração de
 dataset, treino, predição).
 
-## ⚠️ Decisões de projeto
+##  Decisões de projeto
 
 - **Sem execução real de arquivos.** O app nunca abre ou executa o
   conteúdo do arquivo analisado — toda a análise é estática (hash,
@@ -147,16 +147,16 @@ dataset, treino, predição).
   que funciona de ponta a ponta, com testes e um pipeline de ML real,
   em vez de uma stack maior só no papel.
 
-## 🗺️ Roadmap
+##  Roadmap
 
 Veja [docs/roadmap.md](docs/roadmap.md) para o que já foi feito e o
 que está planejado.
 
-## 📄 Licença
+##  Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
 
-## 🎓 Origem acadêmica
+##  Origem acadêmica
 
 Este projeto nasceu como pré-projeto de sistemas para a disciplina de
 Interface e Jornada do Usuário, desenvolvido originalmente em grupo.
