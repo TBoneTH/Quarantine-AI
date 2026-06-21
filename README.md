@@ -62,7 +62,7 @@ podem discordar entre si — isso é intencional. Veja o
 [Model Card](scanner/model/MODEL_CARD.md) pra entender exatamente como
 o modelo foi treinado, com quais dados e quais as limitações dele.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Python 3.10+
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter) — interface gráfica
